@@ -12,3 +12,7 @@
 Ini adalah kumpulan contoh kode React. 
 
 Sebaiknya Anda juga membaca README.md dari masing-masing folder jika ada, karena saya menggunakan repository ini untuk blogging juga.
+
+Berikut ini daftar artikelnya:
+
+- [Belajar React Membuat Project](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-membuat-project)
