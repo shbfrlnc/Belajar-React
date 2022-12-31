@@ -19,6 +19,7 @@ Berikut ini daftar artikelnya:
 - [Belajar React Menggunakan Bootstrap](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-menggunakan-bootstrap)
 - [Belajar React Membuat Component](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-membuat-component)
 - [Belajar React Menggunakan Props](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-menggunakan-props)
+- [Belajar React Menggunakan Props Children](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-menggunakan-props-children)
 
 
 
