@@ -44,6 +44,8 @@ npm install react-bootstrap bootstrap
 Selanjutnya, ubah src/index.js menjadi:
 
 ```
+// file: src/index.js
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
@@ -62,6 +64,8 @@ root.render(
 Dan ubah src/App.js menjadi:
 
 ```
+// file: src/App.js
+
 import { Button } from 'react-bootstrap';
 
 function App() {

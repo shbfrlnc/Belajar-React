@@ -29,6 +29,8 @@ Dalam bahasan kali ini, kita hanya menggunakan function component.
 Untuk membuat function component:
 
 ```
+// file: src/App.js
+
 // bisa begini
 function MyComponent1() {
   return (
