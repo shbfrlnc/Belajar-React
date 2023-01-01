@@ -29,6 +29,8 @@ Bedanya, sintaks dari event di React ditulis dengan camelcase.
 Misalnya, jika di HTML biasa adalah onclick, maka di React ditulis onClick.
 
 ```
+// file: src/App.js
+
 function App() {
   // perhatikan bahwa onClick ditulis dengan camelcase.
   // selain itu, onClick di-assign dengan anonymous function yang isinya alert
