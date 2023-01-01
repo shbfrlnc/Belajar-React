@@ -1,4 +1,4 @@
-# Belajar React Menggunakan Props
+# Belajar React Conditional Rendering
 
 ## Cara Mencoba Kode ini
 
