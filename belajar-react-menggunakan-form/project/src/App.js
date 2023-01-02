@@ -41,7 +41,7 @@ function App() {
         <textarea value={ deskripsi } onChange={(e) => { setDeskripsi(e.target.value) }} />
         <br />
 
-        {/* di React, nilai select terpilih tidak menggunakan atribut selected. */}
+        {/* di React, nilai option terpilih tidak menggunakan atribut selected. */}
         <label>Ekstra:</label>
         <select value={ ekstra } onChange={(e) => { setEkstra(e.target.value) }}>
           <option value="Coklat">Coklat</option>
