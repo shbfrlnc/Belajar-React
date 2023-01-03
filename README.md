@@ -10,9 +10,9 @@
 
 Ini adalah kumpulan contoh kode React. 
 
-Sebaiknya Anda juga membaca README.md dari masing-masing folder jika ada, karena saya menggunakan repository ini untuk blogging juga.
+Sebaiknya Anda juga membaca README.md dari masing-masing folder jika ada, karena mungkin kode dijelaskan di README.md.
 
-Berikut ini daftar artikelnya:
+Berikut ini daftarnya:
 
 - [Belajar React Membuat Project](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-membuat-project)
 - [Belajar React Menggunakan Bootstrap](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-menggunakan-bootstrap)
