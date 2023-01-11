@@ -1,3 +1,5 @@
+// ini adalah data yang akan digunakan dalam komponen nantinya.
+
 const data = [
     {
         id: 1,
