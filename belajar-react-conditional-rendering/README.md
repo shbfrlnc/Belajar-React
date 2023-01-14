@@ -20,59 +20,6 @@ npm run start
 
 Kemudian, buka browser Anda ke http://localhost:3000
 
-## Pendahuluan
+## Link Artikel
 
-Kita bisa me-render komponen React secara conditional.
-
-Artinya, kita bisa me-render komponen secara selektif berdasarkan kondisi yang diberikan.
-
-```
-// file: src/App.js
-
-// membuat komponen Apple
-function Apple() {
-  return (
-    <>
-      <h1>Ini adalah Apple</h1>
-    </>
-  )
-}
-
-// membuat komponen Orange
-const Orange = () => {
-  return (
-    <>
-      <h1>Ini adalah Orange</h1>
-    </>
-    )
-}
-
-// kondisi bisa dibuat seperti ini
-// atau seperti di kondisi2 di bawah dengan cara inline
-function BeriKondisi(props) {
-  const kondisi1 = props.isApple;
-
-  if(kondisi1){
-    return (
-      <Apple />
-    )
-  } else {
-    return (
-      <Orange />
-    )
-  }
-}
-
-function App() {
-  const kondisi2 = false;
-  return (
-    <>
-      <BeriKondisi isApple={true} />
-      {/* pengkondisian secara inline */ }
-      {kondisi2 ? <Apple /> : <Orange />}
-    </>
-  );
-}
-
-export default App;
-```
+https://shbfrlnc.github.io/belajar-react-conditional-rendering.html

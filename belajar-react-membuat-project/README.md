@@ -20,16 +20,6 @@ npm run start
 
 Kemudian, buka browser Anda ke http://localhost:3000
 
-## Pendahuluan
+## Link Artikel
 
-Untuk membuat project react, salah satunya adalah dengan menggunakan create react app.
-
-Caranya, buka folder di mana Anda ingin meletakkan project React Anda, kemudian:
-
-```
-npx create-react-app nama_project
-```
-
-Di mana nama_project bisa disesuaikan dengan keinginan Anda.
-
-Namun, perlu diperhatikan bahwa sebelum Anda dapat melakukan itu, Anda harus menginstall Node.js dan NPM terlebih dahulu.
+https://shbfrlnc.github.io/belajar-react-membuat-project.html
