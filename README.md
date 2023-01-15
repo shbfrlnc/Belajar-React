@@ -26,5 +26,6 @@ Berikut ini daftarnya:
 - [Belajar React Menggunakan Form](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-menggunakan-form)
 - [Belajar React Router Dasar](https://github.com/shbfrlnc/Belajar-React/tree/main/belajar-react-router-dasar)
 
+Link artikel terkait ada di:
 
-
+https://shbfrlnc.github.io/belajar-react.html
